@@ -1,6 +1,6 @@
-# Sample Repository
+# OriginGit Repository
 
-Welcome to the Sample repository! This repository was created to demonstrate and test various GitHub functionalities. It contains a few files and commits to showcase basic actions.
+Welcome to the OriginGit repository! This repository was created to demonstrate and test various GitHub functionalities. It contains a few files and commits to showcase basic actions.
 
 ## Overview
 
@@ -34,4 +34,4 @@ Feel free to contribute to this project by testing additional GitHub functionali
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Narwal25/sample.git
+git clone https://github.com/Narwal25/OriginGit.git
